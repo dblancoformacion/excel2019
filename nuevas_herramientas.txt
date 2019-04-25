@@ -1,0 +1,32 @@
+https://www.youtube.com/watch?v=JWfJzOlV4XE
+https://www.youtube.com/watch?v=Zt0CZDDKEiw
+https://www.youtube.com/watch?v=F0OmqE9YYhY
+
+[] desplazarse por excel
+- Ctrl+RePag (cambia de pestaña/hoja)
+[] insertar columnas con 
+- Ctrl+esp (selecciona columa entera)
+- Shift+esp (selecciona fila entera)
+- Ctrl++ (inserta)
+- Ctrl+- (elimina)
+[] texto en columnas para  
+- número guardado como texto
+- formato de fecha
+[] función texto
+[] botón de autosuma (Alt+= )
+- incluyendo espacios en blanco
+[] quitar duplicados (para elementos diferentes sin tabla dinámica)
+[] flash fill (relleno rápido)
+- inicio, rellenar, relleno rápido (Ctrl+Shift+E)
+[] tablas dinámicas
+- cambiar tipo de total con botón derecho sobre celda
+- agrupar por nº (botón decho agrupar... y sale por defecto)
+- analizar, insertar segmentación de datos
+[] listas validadas, tb para tablas de relación junto a buscarv
+[] buscarv, sólo devuelve el primer resultado
+[] color de etiqueta
+
+Ej.
+[] sumar facturas vencidas
+[] filtrar por mes
+[] contar si acumulativo, cuántas veces va apareciendo un dato
