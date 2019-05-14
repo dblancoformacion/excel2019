@@ -1,0 +1,130 @@
+EXCEL PARA LA GESTIÓN DE DATOS
+
+1. ¿Es posible referenciar una celda desde una hoja diferente del mismo libro?
+[] No, únicamente desde la misma hoja
+[] Sí, pero sólo desde una hoja contigua
+[] Sí, desde cualquier hoja del libro
+[] No, las celdas no se pueden referenciar
+
+2. ¿Cómo identificamos habitualmente a los grupos de entidades en el modelo ER?
+[] con adjetivos
+[] con nombres
+[] con verbos
+[] con determinantes
+
+3. ¿En qué consiste el Autofiltro?
+[] Es una herramienta para ordenar rápidamente las filas de una hoja
+[] Es una opción que permite seleccionar las filas de una hoja que cumplan un determinado criterio
+[] No existe
+[] Se trata de un sistema para calcular totales y datos agregados
+
+4. ¿Cómo identificamos habitualmente a las relaciones en el modelo ER?
+[] con adjetivos
+[] con nombres
+[] con verbos
+[] con determinantes
+
+5. ¿Para qué sirve la función BUSCARH()?
+[] Para lo mismo que BUSCARV(), aunque sobre una tabla de datos traspuesta
+[] Esa función no existe
+[] Para impedir que en una celda se puedan introducir valores que no estén en una lista
+[] Para calcular totales y datos agregados
+
+6. ¿Qué es una tabla dinámica?
+[] Es una herramienta para ordenar rápidamente las filas de una hoja
+[] Es una opción que permite seleccionar las filas de una hoja que cumplan un cierto criterio
+[] No existe
+[] Se trata de un sistema para calcular totales y datos agregados
+
+7. ¿Para qué sirve la función Validación de datos?
+[] Para lo mismo que BUSCARV(), aunque sobre una tabla de datos traspuesta
+[] Esa función no existe
+[] Para impedir que en una celda se puedan introducir valores que no estén en una lista
+[] Para calcular totales y datos agregados
+
+8. ¿Cómo se puede implementar en Excel una clave ajena, FOREIGN KEY (FK) o relación?
+[] BUSCARV()
+[] BUSCARH()
+[] Validación de datos
+[] No se puede
+
+9. ¿Cómo se puede implementar en Excel una combinación de tablas o INNER JOIN?
+[] BUSCARV()
+[] Autofiltro
+[] Validación de datos
+[] No se puede
+
+10. ¿Cuántas columnas son necesarias para construir un gráfico de barras?
+[] Con 1 es suficiente
+[] Al menos 2
+[] Como mínimo 3
+[] Deben ser al menos 4
+
+11. ¿Cuántas columnas son necesarias para construir un gráfico de rectángulos o proyección solar?
+[] Con 1 es suficiente
+[] Al menos 2
+[] Como mínimo 3
+[] Deben ser al menos 5
+
+12. ¿Cuántas columnas son necesarias para construir un gráfico de cotizaciones con velas japonenas?
+[] Con 1 es suficiente
+[] Al menos 2
+[] Como mínimo 3
+[] Deben ser al menos 5
+
+
+HERRAMIENTAS DE GOOGLE
+
+1. ¿Qué herramienta de Google podemos utilizar como un navegador GPS?
+[] Con Google Maps
+[] Con Google MyMaps
+[] Con Google Calendar
+[] Con Gmail
+
+2. ¿Desde qué herramienta de Google podemos acceder directamente a gestionar los datos de nuestros contactos?
+[] Desde Google Maps
+[] Desde Google MyMaps
+[] Desde Google Calendar
+[] Desde Gmail
+
+3. ¿Para qué sirve Dialogflow?
+[] Es un CRM que permite gestionar la relación con el cliente
+[] Permite sincronizar mi email en todos mis dispositivos móviles
+[] Básicamente configura un bot o interfaz conversacional
+[] Es un altavoz del tipo Alexa de Amazon
+
+4. ¿En Google Drive podemos trabajar varios usuarios simultáneamente sobre el mismo fichero?
+[] No, debemos bajar el fichero, modificarlo y volver a subirlo
+[] Sí, pero por turnos, mientras otro usuario escribe, nosotros no podremos escribir
+[] Sí, todos podemos estar modificándolo a la vez
+[] No, Drive es como Dropbox
+
+5. ¿Qué es una entidad en Dialogflow?
+[] En la práctica, no es más que una intención a la que sólo se puede acceder a través de una intención previa
+[] Básicamente cada una de las respuestas que queremos dar, con sus respectivas pregunta de entrenamiento
+[] Ese concepto no existe en Dialogflow
+[] Cada uno de los tipos de datos que queremos tratar y almacenamos en variables
+
+6. ¿Cómo es posible acceder a Street View?
+[] Desde Google Maps
+[] Desde MyMaps
+[] Desde Gmail
+[] Desde Keep
+
+7. ¿Qué es un contexto en Dialogflow?
+[] Cada uno de los tipos de datos que queremos tratar y almacenamos en variables
+[] En la práctica, no es más que una intención a la que sólo se puede acceder a través de una intención previa
+[] Ese concepto no existe en Dialogflow
+[] Básicamente cada una de las respuestas que queremos dar, con sus respectivas pregunta de entrenamiento
+
+8. ¿Qué herramienta de Google nos permite gestionar listas de tareas como si fueran post-it?
+[] YouTube
+[] Maps
+[] Keep
+[] Calendar
+
+9. ¿Qué es una intención en Dialogflow?
+[] En la práctica, no es más que una intención a la que sólo se puede acceder a través de una intención previa
+[] Ese concepto no existe en Dialogflow
+[] Cada uno de los tipos de datos que queremos tratar y almacenamos en variables
+[] Básicamente cada una de las respuestas que queremos dar, con sus respectivas pregunta de entrenamiento
